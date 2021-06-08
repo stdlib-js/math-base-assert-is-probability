@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-probability",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "Test if a numeric value is a probability.",
   "license": "Apache-2.0",
   "author": {
