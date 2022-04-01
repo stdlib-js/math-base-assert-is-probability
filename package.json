@@ -1,0 +1,46 @@
+{
+  "name": "@stdlib/math-base-assert-is-probability",
+  "version": "0.0.0",
+  "description": "Test if a numeric value is a probability.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-assert-is-probability.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "math",
+    "mathematics",
+    "float",
+    "double",
+    "dbl",
+    "number",
+    "numeric",
+    "probability",
+    "prob",
+    "is",
+    "isprobability",
+    "isprob",
+    "type",
+    "check",
+    "valid",
+    "validate",
+    "test"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
