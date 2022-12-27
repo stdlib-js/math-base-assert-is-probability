@@ -36,16 +36,20 @@
   "bugs": {
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@stdlib/utils-library-manifest": "^0.0.x"
+  },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.0.x",
     "@stdlib/bench": "^0.0.x",
+    "@stdlib/boolean-ctor": "^0.0.x",
     "@stdlib/constants-float64-ninf": "^0.0.x",
     "@stdlib/constants-float64-pinf": "^0.0.x",
     "@stdlib/random-base-randu": "^0.0.x",
+    "@stdlib/utils-try-require": "^0.0.x",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
-    "tap-min": "2.x.x"
+    "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
   },
   "engines": {
     "node": ">=0.10.0",
