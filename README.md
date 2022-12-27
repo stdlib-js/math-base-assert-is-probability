@@ -22,7 +22,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Test if a numeric value is a probability.
+> Test if a double-precision floating-point number is a probability.
 
 <section class="installation">
 
@@ -52,7 +52,7 @@ var isProbability = require( '@stdlib/math-base-assert-is-probability' );
 
 #### isProbability( x )
 
-Tests if a `numeric` value is a probability.
+Tests if a double-precision floating-point number is a probability.
 
 ```javascript
 var bool = isProbability( 0.5 );
@@ -122,7 +122,7 @@ for ( i = 0; i < 100; i++ ) {
 
 #### stdlib_base_is_probability( x )
 
-Tests if a numeric value is a probability.
+Tests if a double-precision floating-point number is a probability.
 
 ```c
 bool out = stdlib_base_is_probability( 0.5 );
