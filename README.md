@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isProbability from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probability@deno/mod.js';
+import isProbability from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probability@v0.0.7-deno/mod.js';
 ```
 
 #### isProbability( x )
@@ -61,7 +61,7 @@ bool = isProbability( NaN );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import isProbability from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probability@deno/mod.js';
+import isProbability from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-probability@v0.0.7-deno/mod.js';
 
 var bool;
 var x;
