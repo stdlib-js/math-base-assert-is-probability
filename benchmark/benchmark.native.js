@@ -21,7 +21,7 @@
 // MODULES //
 
 var resolve = require( 'path' ).resolve;
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var randu = require( '@stdlib/random-base-randu' );
 var isBoolean = require( '@stdlib/assert-is-boolean' ).isPrimitive;
 var tryRequire = require( '@stdlib/utils-try-require' );
