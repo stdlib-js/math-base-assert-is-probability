@@ -44,14 +44,14 @@
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.1",
     "@stdlib/boolean-ctor": "^0.2.1",
-    "@stdlib/constants-float64-ninf": "^0.2.0",
-    "@stdlib/constants-float64-pinf": "^0.2.0",
-    "@stdlib/random-base-randu": "^0.2.0",
+    "@stdlib/constants-float64-ninf": "^0.2.1",
+    "@stdlib/constants-float64-pinf": "^0.2.1",
+    "@stdlib/random-base-randu": "^0.2.1",
     "@stdlib/utils-try-require": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.0"
+    "@stdlib/bench-harness": "^0.2.1"
   },
   "engines": {
     "node": ">=0.10.0",
