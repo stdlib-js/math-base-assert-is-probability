@@ -89,17 +89,20 @@ bool = isProbability( NaN );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-var randu = require( '@stdlib/random-base-randu' );
+var uniform = require( '@stdlib/random-array-uniform' );
 var isProbability = require( '@stdlib/math-base-assert-is-probability' );
 
 var bool;
+var len;
 var x;
 var i;
 
+len = 100;
+x = uniform( len, -1.0, 1.0 );
+
 for ( i = 0; i < 100; i++ ) {
-    x = ( randu()*2.0 ) - 1.0;
-    bool = isProbability( x );
-    console.log( '%d is %s', x, ( bool ) ? 'a probability' : 'not a probability' );
+    bool = isProbability( x[ i ] );
+    console.log( '%d is %s', x[ i ], ( bool ) ? 'a probability' : 'not a probability' );
 }
 ```
 
@@ -232,7 +235,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
