@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-17)
+## Unreleased (2025-04-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`65f0948`](https://github.com/stdlib-js/stdlib/commit/65f0948b65c43d56d13cb55c54ac4526c3c60304) - **bench:** update random value generation [(#6691)](https://github.com/stdlib-js/stdlib/pull/6691) _(by Harsh)_
 -   [`d0d1438`](https://github.com/stdlib-js/stdlib/commit/d0d143871a928a6bd11157c58abb5b17a0f405d4) - **docs:** add missing include _(by Athan Reines)_
 -   [`c794cdb`](https://github.com/stdlib-js/stdlib/commit/c794cdbb6d6c94f04e713589e5c233807bfd3012) - **docs:** update examples _(by Athan Reines)_
 -   [`cbf9861`](https://github.com/stdlib-js/stdlib/commit/cbf9861ff75550ac3635fca61ae3ba544ecb6e9c) - **refactor:** update `math/base/assert/is-probability` to follow latest project conventions [(#4700)](https://github.com/stdlib-js/stdlib/pull/4700) _(by Vivek Maurya)_
@@ -31,9 +32,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh
 -   Philipp Burckhardt
 -   Vivek Maurya
 
