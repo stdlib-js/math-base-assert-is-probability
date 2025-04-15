@@ -49,6 +49,7 @@
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/boolean-ctor": "^0.2.2",
+    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/constants-float64-pinf": "^0.2.2",
     "@stdlib/random-array-uniform": "^0.2.1",

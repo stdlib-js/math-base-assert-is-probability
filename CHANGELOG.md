@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`da4436d`](https://github.com/stdlib-js/stdlib/commit/da4436d4372c05e78d6936e1738be14e640ef099) - **docs:** replace manual `for` loop in examples [(#6689)](https://github.com/stdlib-js/stdlib/pull/6689) _(by Harsh)_
 -   [`65f0948`](https://github.com/stdlib-js/stdlib/commit/65f0948b65c43d56d13cb55c54ac4526c3c60304) - **bench:** update random value generation [(#6691)](https://github.com/stdlib-js/stdlib/pull/6691) _(by Harsh)_
 -   [`d0d1438`](https://github.com/stdlib-js/stdlib/commit/d0d143871a928a6bd11157c58abb5b17a0f405d4) - **docs:** add missing include _(by Athan Reines)_
 -   [`c794cdb`](https://github.com/stdlib-js/stdlib/commit/c794cdbb6d6c94f04e713589e5c233807bfd3012) - **docs:** update examples _(by Athan Reines)_
