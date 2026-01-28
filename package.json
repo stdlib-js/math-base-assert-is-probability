@@ -43,8 +43,8 @@
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-double": "^0.2.1",
     "@stdlib/napi-create-int32": "^0.0.2",
-    "@stdlib/napi-export": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/napi-export": "^0.3.0",
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.2",
