@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-probability",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Test if a double-precision floating-point number is a probability.",
   "license": "Apache-2.0",
   "author": {
@@ -42,18 +42,18 @@
   "dependencies": {
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-double": "^0.2.1",
-    "@stdlib/napi-create-int32": "^0.0.2",
+    "@stdlib/napi-create-int32": "^0.0.3",
     "@stdlib/napi-export": "^0.3.0",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/boolean-ctor": "^0.2.2",
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/constants-float64-pinf": "^0.2.2",
     "@stdlib/random-array-uniform": "^0.2.1",
-    "@stdlib/random-base-randu": "^0.2.1",
+    "@stdlib/random-base-randu": "^0.2.2",
     "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
