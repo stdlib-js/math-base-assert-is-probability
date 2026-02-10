@@ -40,25 +40,26 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/napi-argv": "^0.2.2",
-    "@stdlib/napi-argv-double": "^0.2.1",
+    "@stdlib/napi-argv": "^0.2.3",
+    "@stdlib/napi-argv-double": "^0.2.2",
     "@stdlib/napi-create-int32": "^0.0.3",
-    "@stdlib/napi-export": "^0.3.0",
-    "@stdlib/utils-library-manifest": "^0.2.3"
+    "@stdlib/napi-export": "^0.3.1",
+    "@stdlib/utils-library-manifest": "^0.2.4"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.2.2",
-    "@stdlib/boolean-ctor": "^0.2.2",
-    "@stdlib/console-log-each-map": "^0.1.0",
-    "@stdlib/constants-float64-ninf": "^0.2.2",
-    "@stdlib/constants-float64-pinf": "^0.2.2",
-    "@stdlib/random-array-uniform": "^0.2.1",
-    "@stdlib/random-base-randu": "^0.2.2",
-    "@stdlib/utils-try-require": "^0.2.2",
+    "@stdlib/assert-is-boolean": "^0.2.3",
+    "@stdlib/boolean-ctor": "^0.2.3",
+    "@stdlib/console-log-each-map": "^0.1.1",
+    "@stdlib/constants-float64-ninf": "^0.2.3",
+    "@stdlib/constants-float64-pinf": "^0.2.3",
+    "@stdlib/random-array-uniform": "^0.2.2",
+    "@stdlib/random-base-randu": "^0.2.3",
+    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/utils-try-require": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",
